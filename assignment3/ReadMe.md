@@ -32,12 +32,13 @@ Requirements
 
 Works on Windows, macOS, and Linux (with a connected camera).
 
-Install dependencies with:
+**Install dependencies with:**
 
 	pip install opencv-python
 
-Usage
+**Usage**
 
   Run the script:
 	
 	 python assignment3.py	
+
